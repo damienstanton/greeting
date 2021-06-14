@@ -5,6 +5,6 @@ extern "C" {
 }
 
 int main() {
-	const char* name = "Damien";
+	auto name = "Damien";
 	std::cout << greeting_c(name) << std::endl;
 }
