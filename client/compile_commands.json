@@ -1,0 +1,30 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/clang++",
+      "-c",
+      "-Wall",
+      "-pipe",
+      "-O2",
+      "-std=c++17",
+      "-Wall",
+      "-Wextra",
+      "-pedantic",
+      "-Wshadow",
+      "-Wformat=2",
+      "-Wfloat-equal",
+      "-Wconversion",
+      "-Wshift-overflow",
+      "-Wcast-qual",
+      "-Wcast-align",
+      "-Wno-unused-result",
+      "-Wno-sign-conversion",
+      "-o",
+      "hello",
+      "hello.cpp"
+    ],
+    "directory": "/Users/dstanton006/work/talks/helloc/client",
+    "file": "/Users/dstanton006/work/talks/helloc/client/hello.cpp",
+    "output": "/Users/dstanton006/work/talks/helloc/client/hello"
+  }
+]

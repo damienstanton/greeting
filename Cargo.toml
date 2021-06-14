@@ -1,0 +1,10 @@
+[package]
+name = "helloc"
+version = "0.1.0"
+authors = ["Damien Stanton <damien.stanton@pwc.com>"]
+edition = "2018"
+
+[lib]
+crate-type = ["cdylib"]
+
+[dependencies]
